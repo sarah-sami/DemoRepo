@@ -31,5 +31,5 @@ public class ListADT {
 		  
 		  System.out.println(cars.size());
 	}
-
+// This is the ADT list of java programming
 }
